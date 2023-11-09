@@ -1,4 +1,4 @@
-#Como fazer um bot de previsão do tempo usando a API ..........  e a biblioteca .......... pra:
+#Como fazer um bot de previsão do tempo usando a API  API OpenWeatherMap  e a biblioteca googletrans pra:
 
 <h1>o que deve ter instalado e configurado para este projeto?</h1>
 
